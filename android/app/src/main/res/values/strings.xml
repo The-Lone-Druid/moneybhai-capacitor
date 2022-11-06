@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MoneyBhai</string>
+    <string name="title_activity_main">MoneyBhai</string>
+    <string name="package_name">com.moneybhai.app</string>
+    <string name="custom_url_scheme">com.moneybhai.app</string>
+</resources>
